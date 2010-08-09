@@ -22,6 +22,7 @@ Gem::Specification.new do |s|
      "LICENSE",
      "README.rdoc",
      "Rakefile",
+     "hack-the-rabbit.gemspec",
      "lib/hack-the-rabbit.rb",
      "test/helper.rb",
      "test/test_hack-the-rabbit.rb"
